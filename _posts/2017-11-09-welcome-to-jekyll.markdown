@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my website!"
 date:   2017-11-09 18:03:53 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I'm Mark, a 2nd year PhD student at the University of Leeds. I hope to use this site to share information about my skills, interests, and current research.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+I may get around to discussing code snippets: 
+{% highlight c %}
+int main(int argc, char *argv[])
+{
+	// some program
+	return 0;
+}
 {% endhighlight %}
+But that will depend how often I update this blog.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+You can also find me on [LinkedIn][linkedin], and you'll find my code on [GitHub][github] and [GitLab][gitlab], although at the time of writing these are all pretty bare and don't represent anything I've been working in the last 2-3 years!
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[linkedin]: https://www.linkedin.com/in/mark-houghton-b8293268/
+[github]: https://github.com/m-r-houghton
+[gitlab]: https://gitlab.com/m-r-houghton
