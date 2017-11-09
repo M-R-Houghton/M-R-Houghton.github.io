@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'An Introduction'
 date: 2017-11-09 13:26:34
 ---
