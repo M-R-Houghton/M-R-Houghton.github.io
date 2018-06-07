@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+exclude: true
 ---
 
 I'm part of the [computational science and engineering][CSE] research group, within the [School of Computing][SoC] at Leeds.
